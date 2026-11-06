@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" style="background:#0f111a; border-radius:12px; font-family:sans-serif;">
+<text x="360" y="30" text-anchor="middle" fill="#f0f0f5" font-size="18" font-weight="bold">Relay Throughput &amp; Claim Latency</text>
+<line x1="60" y1="290" x2="660" y2="290" stroke="#2d3142" stroke-width="1.5" />
+<line x1="60" y1="50" x2="660" y2="50" stroke="#2d3142" stroke-dasharray="4" />
+<line x1="60" y1="170" x2="660" y2="170" stroke="#2d3142" stroke-dasharray="4" />
+<text x="50" y="55" text-anchor="end" fill="#8f93a2" font-size="11">833</text>
+<text x="50" y="174" text-anchor="end" fill="#8f93a2" font-size="11">416</text>
+<text x="50" y="290" text-anchor="end" fill="#8f93a2" font-size="11">0</text>
+<text x="20" y="170" fill="#8f93a2" font-size="11" transform="rotate(-90 20 170)" text-anchor="middle">Jobs / Second</text>
+<rect x="128.0" y="194.014399280036" width="64" height="95.985600719964" rx="6" fill="#7c5cff" />
+<text x="160.0" y="186.014399280036" text-anchor="middle" fill="#c3b5ff" font-size="13" font-weight="bold">333.3 j/s</text>
+<text x="160.0" y="314" text-anchor="middle" fill="#e0e0f0" font-size="13">1 Worker</text>
+<text x="160.0" y="332" text-anchor="middle" fill="#8f93a2" font-size="11">claim p99: 16.0ms</text>
+<rect x="328.0" y="98.0" width="64" height="192.0" rx="6" fill="#7c5cff" />
+<text x="360.0" y="90.0" text-anchor="middle" fill="#c3b5ff" font-size="13" font-weight="bold">666.7 j/s</text>
+<text x="360.0" y="314" text-anchor="middle" fill="#e0e0f0" font-size="13">5 Workers</text>
+<text x="360.0" y="332" text-anchor="middle" fill="#8f93a2" font-size="11">claim p99: 16.0ms</text>
+<rect x="528.0" y="122.36358182090893" width="64" height="167.63641817909107" rx="6" fill="#7c5cff" />
+<text x="560.0" y="114.36358182090893" text-anchor="middle" fill="#c3b5ff" font-size="13" font-weight="bold">582.1 j/s</text>
+<text x="560.0" y="314" text-anchor="middle" fill="#e0e0f0" font-size="13">10 Workers</text>
+<text x="560.0" y="332" text-anchor="middle" fill="#8f93a2" font-size="11">claim p99: 16.0ms</text>
+</svg>
